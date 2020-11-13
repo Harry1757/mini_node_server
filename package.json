@@ -1,0 +1,23 @@
+{
+  "name": "im-sprint-mini-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server /basic-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harry1757/im-sprint-mini-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harry1757/im-sprint-mini-node-server/issues"
+  },
+  "homepage": "https://github.com/Harry1757/im-sprint-mini-node-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
